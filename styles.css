@@ -13,6 +13,7 @@ h1{
     display:flex; 
     flex-wrap:wrap; 
 }
+
 .project {
 width: 30%;
 margin: 10px;
@@ -28,4 +29,9 @@ border-radius: 25%;
     border: 2px solid rgb(176, 14, 201); /* choose a color */
     display: block;
     margin: auto;
+   }
+
+   .project p { 
+    text-align: center;
+    margin: 15px;
    }

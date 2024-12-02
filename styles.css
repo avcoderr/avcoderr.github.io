@@ -1,9 +1,9 @@
 body {
-    background-color:crimson;
+    background-color:rgb(216, 56, 88);
     font-family: "Times New Roman", Helvetica, sans-serif;
 }
 h1{
-    color:darkgreen;
+    color:rgb(126, 14, 201);
     text-align: center;
 }
 
@@ -18,7 +18,7 @@ h1{
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: rgb(241, 19, 19); /* pick a color */
+background: rgb(226, 2, 2); /* pick a color */
 border-radius: 25%;
 }
 
@@ -26,7 +26,7 @@ border-radius: 25%;
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(176, 14, 201); /* choose a color */
+    border: 2px solid rgb(126, 14, 201); /* choose a color */
     display: block;
     margin: auto;
    }
